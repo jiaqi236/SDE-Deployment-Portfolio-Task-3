@@ -1,0 +1,12 @@
+D:\Software Development\RoomManagerWeb\RoomManagerWeb\publish\RoomManagerWeb.exe
+D:\Software Development\RoomManagerWeb\RoomManagerWeb\publish\publish\web.config
+D:\Software Development\RoomManagerWeb\RoomManagerWeb\publish\appsettings.Development.json
+D:\Software Development\RoomManagerWeb\RoomManagerWeb\publish\appsettings.json
+D:\Software Development\RoomManagerWeb\RoomManagerWeb\publish\publish\appsettings.Development.json
+D:\Software Development\RoomManagerWeb\RoomManagerWeb\publish\publish\appsettings.json
+D:\Software Development\RoomManagerWeb\RoomManagerWeb\publish\publish\RoomManagerWeb.deps.json
+D:\Software Development\RoomManagerWeb\RoomManagerWeb\publish\publish\RoomManagerWeb.runtimeconfig.json
+D:\Software Development\RoomManagerWeb\RoomManagerWeb\publish\RoomManagerWeb.dll
+D:\Software Development\RoomManagerWeb\RoomManagerWeb\publish\RoomManagerWeb.deps.json
+D:\Software Development\RoomManagerWeb\RoomManagerWeb\publish\RoomManagerWeb.runtimeconfig.json
+D:\Software Development\RoomManagerWeb\RoomManagerWeb\publish\RoomManagerWeb.pdb
