@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\RoomManagerWeb.props" />
-</Project>
